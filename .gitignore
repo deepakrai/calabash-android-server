@@ -1,6 +1,7 @@
 # Built application files
 *.apk
 *.ap_
+server/staging
 
 # Files for the Dalvik VM
 *.dex
@@ -9,7 +10,6 @@
 *.class
 
 # Generated files
-bin/
 gen/
 
 # Gradle files
@@ -25,3 +25,7 @@ proguard/
 
 # Log Files
 *.log
+
+server/.idea/libraries/maps.xml
+
+server/.idea/workspace.xml
